@@ -154,7 +154,7 @@ Publish the website in the LocalHost.
 
   <!-- Navbar -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-success">
-    <a class="navbar-brand" href="#">AI PHARMACEUTICAL</a>
+    <a class="navbar-brand" href="#">INTRO PHARMACEUTICAL</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -253,7 +253,7 @@ Publish the website in the LocalHost.
 
   <!-- Navbar -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-success">
-    <a class="navbar-brand" href="#">AI PHARMACEUTICALS</a>
+    <a class="navbar-brand" href="#">INTRO PHARMACEUTICALS</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -365,7 +365,7 @@ Publish the website in the LocalHost.
 
   <!-- Navbar -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-success">
-    <a class="navbar-brand" href="#">AI PHARMACEUTICAL</a>
+    <a class="navbar-brand" href="#">INTRO PHARMACEUTICAL</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -442,9 +442,9 @@ Publish the website in the LocalHost.
 ## OUTPUT:
 
 ![alt text](<web/samapp/static/Screenshot 2024-05-12 190449.png>)
-![alt text](<web/samapp/static/Screenshot 2024-05-12 190459.png>)
-![alt text](<web/samapp/static/Screenshot 2024-05-12 190551.png>)
-![alt text](<web/samapp/static/Screenshot 2024-05-12 190630.png>)
+![alt text](<web/samapp/static/Screenshot 2024-05-12 191544.png>)
+![alt text](<web/samapp/static/Screenshot 2024-05-12 191552.png>)
+![alt text](<web/samapp/static/Screenshot 2024-05-12 191558.png>)
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
